@@ -1,0 +1,11 @@
+{
+  "title": "Smart PID Thermostat",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart PID Thermostat",
+        "description": "Configure PID control for one or more climate entities."
+      }
+    }
+  }
+}
