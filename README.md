@@ -1,5 +1,5 @@
 # Smart PID Thermostat
-#
+
 PID-based controller for Home Assistant that **adjusts temperature and fan only** (never changes HVAC mode).  
 Keeps your rooms close to target temp; great with inverter A/C and fan coils.
 
